@@ -9,8 +9,13 @@
 
 ----
 
+
 ## Story Mapping
 
+### Version Image
+<img width="1000" alt="Mapping Story" src="https://user-images.githubusercontent.com/56674425/226131804-4bdad902-8939-4fac-8272-8b0a2f1c6668.PNG">
+
+### Version Tableau
 | Site Internet |  |  |  | SAV | Programme de fidélité |  |  |  | Communication |  | THEMES |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | **Gestion front**  |  |  | **Gestion back**  | **Support**  | **Gestion des points** |  | **Gestion des cadeaux**  | **Performance du programme**  | **Réseaux sociaux** | **Mail** | **EPICS** |
